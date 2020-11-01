@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Le Manh Hung</h1>
     <form action="" method="post">
         <input type="submit" name="login" value="Dang nhap">
         <input type="submit" name="register" value="Dang ki">
